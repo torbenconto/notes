@@ -1,0 +1,280 @@
+{
+  "main": {
+    "id": "5418eb6c9f8bfe0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9b9a72c5b5d8fa8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2741ee346409e2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AP Biology/2-Cells.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "499c48060a23b7df",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "48d98e9ead79d363",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AP Biology/Intracellular Receptors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "351e865eafd39ee0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AP Biology/4-Cell Communication.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f20f1af13bbd013",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "243d30143e3e11fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AP Biology/Intracellular Receptors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a1e847a85b15d33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AP Biology/Transduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5d11baa0da092d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AP Biology/Membrane Bound Receptors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "14a12e8a68ddf4a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AP Biology/phosphorylation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b8a3cd7672659349",
+    "type": "split",
+    "children": [
+      {
+        "id": "eef66983b177bb1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ccbdf65f57702386",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e1df5b9ed5521c67",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cc3d9479c51e8c0c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "6ae4d37734e966aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AP Biology/glycolipid.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9556625bf580b12a",
+    "type": "split",
+    "children": [
+      {
+        "id": "219054e5b22dc209",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcc6fd46816b2162",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8faae865f28d0cb7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5eacdcfd55ba3050",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "166e9b44a2eaa053",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "499c48060a23b7df",
+  "lastOpenFiles": [
+    "AP Biology/1-Chemistry Of Life.md",
+    "AP Biology/Cytoplasm.md",
+    "AP Biology/2-Cells.md",
+    "AP Biology/4-Cell Communication.md",
+    "World History AB/4-Romans.md",
+    "World History AB/acropolis.md",
+    "World History AB/agora.md",
+    "World History AB/frescos.md",
+    "World History AB/helots.md",
+    "World History AB/Pasted image 20230929085126.png",
+    "todo.md",
+    "AP Biology/Simple diffusion.md",
+    "AP Biology/3-Enzymes & Energy.md",
+    "AP Biology/Transduction.md",
+    "AP Biology/Membrane Bound Receptors.md",
+    "2023-09-27.md",
+    "2023-09-30.md",
+    "2023-09-28.md",
+    "Assignments.md",
+    "AP Biology/Intracellular Receptors.md",
+    "AP Biology/glycoprotein.md",
+    "World History AB/3-Ancient Greece.md",
+    "AP Biology/phosphorylation.md",
+    "AP Biology/Mitochondria.md",
+    "AP Biology.zip",
+    "AP Biology/enzyme.md",
+    "World History AB/2-Ancient Asia.md",
+    "AP Biology/Nucleolus.md",
+    "Pasted image 20230929085233.png",
+    "Coding",
+    "World History AB",
+    "AP Biology"
+  ]
+}

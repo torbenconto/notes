@@ -1,0 +1,2 @@
+#definition 
+Responsible for [[lipid]] hydrolysis and also using catalase (an [[enzyme]]) to break down toxic hydrogen peroxide. [[lipid]]s are broken down into fatty acid monomers which are sent to the [[Mitochondria]] to help generate [[ATP]].
