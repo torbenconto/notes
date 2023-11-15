@@ -59,3 +59,11 @@ Two types
 	Amplifies or increases a response
 	Used to produce large systematic changes to re-establish homeostasis
 	Responsible for initiating and amplifying biological processes in the body.
+
+
+# [[DNA]]
+
+# Central dogma of biology
+Describes the flow of information in a cell.
+[[DNA]] transcripted to [[RNA]] which is the translated to [[protein]]s which create traits which create you.
+Proteins carry out cell functions, which are expressed as a physical trait.

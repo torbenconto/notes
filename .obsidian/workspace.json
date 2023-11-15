@@ -23,8 +23,48 @@
             "id": "499c48060a23b7df",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "AP Biology/4-Cell Communication.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f77ade44dda18ce4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AP Biology/DNA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc418a85e5b24648",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AP Biology/RNA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7d6837f8b957bc58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AP Biology/DNA.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -108,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -186,6 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AP Biology/DNA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,6 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "AP Biology/DNA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +265,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "AP Biology/DNA.md"
+              }
             }
           }
         ]
@@ -242,19 +286,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "499c48060a23b7df",
+  "active": "f77ade44dda18ce4",
   "lastOpenFiles": [
+    "AP Biology/DNA.md",
+    "AP Biology/4-Cell Communication.md",
+    "AP Biology/RNA.md",
+    "todo.md",
     "AP Biology/1-Chemistry Of Life.md",
     "AP Biology/Cytoplasm.md",
     "AP Biology/2-Cells.md",
-    "AP Biology/4-Cell Communication.md",
     "World History AB/4-Romans.md",
     "World History AB/acropolis.md",
     "World History AB/agora.md",
     "World History AB/frescos.md",
     "World History AB/helots.md",
     "World History AB/Pasted image 20230929085126.png",
-    "todo.md",
     "AP Biology/Simple diffusion.md",
     "AP Biology/3-Enzymes & Energy.md",
     "AP Biology/Transduction.md",
@@ -270,8 +316,6 @@
     "AP Biology/Mitochondria.md",
     "AP Biology.zip",
     "AP Biology/enzyme.md",
-    "World History AB/2-Ancient Asia.md",
-    "AP Biology/Nucleolus.md",
     "Pasted image 20230929085233.png",
     "Coding",
     "World History AB",
