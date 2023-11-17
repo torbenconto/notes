@@ -14,15 +14,18 @@ A series of steps that allows cells to respond to signals from their environment
 ## 2 mechanisms of ligand delivery
 
 ### Cell to Cell contact
+FASTEST METHOD
 Cells make physical contact to transmit and initiate cell response. Requires direct contact between signal and receptor proteins bound on the cell membrane of communicating cells.
 
 #### Gap junctions
 occur in animal cells. 
 Cell membranes fuse together.
 
-#### there is another one for plants i need to FILL IN
+#### Plasmodesmata
+occur in plant cells
+Channels that connect the cytoplasm of adjacent cells through small pores in their cell walls
 
-FASTEST METHOD
+
 
 ### Paracrine signaling
 Cell releases a signal molecule (ligand) that 

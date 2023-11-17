@@ -6,17 +6,17 @@ kanban-plugin: basic
 
 ## TODO
 
-- [ ] Study for math quiz
 - [ ] Study for ela quiz
 - [ ] Revise Hartfield notes
-- [ ] Study for spanish quiz
-- [ ] Do body paragraph for murphy
-- [ ] Do intro paragraph for murphy
 - [ ] Prefix suffix quiz
 
 
 ## IN PROGRESS
 
+- [ ] Do body paragraph for murphy
+- [ ] Do intro paragraph for murphy
+- [ ] Study for spanish quiz
+- [ ] Study for math quiz
 
 
 ## DONE
