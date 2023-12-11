@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a2741ee346409e2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AP Biology/2-Cells.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "499c48060a23b7df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AP Biology/4-Cell Communication.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f77ade44dda18ce4",
             "type": "leaf",
             "state": {
@@ -44,67 +20,31 @@
             }
           },
           {
-            "id": "da39d69df130edc6",
+            "id": "e25d0c162b962485",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP Biology/Transduction.md",
+                "file": "AP Biology/Somatic Cells.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bc418a85e5b24648",
+            "id": "7d6ad9b38d12ef6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP Biology/RNA.md",
+                "file": "AP Biology/Mitosis.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7d6837f8b957bc58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AP Biology/DNA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "48d98e9ead79d363",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AP Biology/Intracellular Receptors.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "351e865eafd39ee0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AP Biology/4-Cell Communication.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f20f1af13bbd013",
+            "id": "6a796c90eee02323",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -112,55 +52,30 @@
             }
           },
           {
-            "id": "243d30143e3e11fe",
+            "id": "0503ec4b43c3646c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP Biology/Intracellular Receptors.md",
+                "file": "AP Biology/Equitorial Plate.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6a1e847a85b15d33",
+            "id": "5a741c39ecc41d96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP Biology/Transduction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f5d11baa0da092d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AP Biology/Membrane Bound Receptors.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "14a12e8a68ddf4a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AP Biology/phosphorylation.md",
+                "file": "AP Biology/Interphase.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -300,8 +215,15 @@
   },
   "active": "f77ade44dda18ce4",
   "lastOpenFiles": [
-    "AP Biology/Transduction.md",
+    "AP Biology/Somatic Cells.md",
+    "AP Biology/Mitosis.md",
     "AP Biology/4-Cell Communication.md",
+    "AP Biology/Membrane Bound Receptors.md",
+    "AP Biology/chromosome.md",
+    "AP Biology/Equitorial Plate.md",
+    "AP Biology/Interphase.md",
+    "AP Biology/phosphorylation.md",
+    "AP Biology/Transduction.md",
     "todo.md",
     "AP Biology/DNA.md",
     "AP Biology/RNA.md",
@@ -316,18 +238,11 @@
     "World History AB/Pasted image 20230929085126.png",
     "AP Biology/Simple diffusion.md",
     "AP Biology/3-Enzymes & Energy.md",
-    "AP Biology/Membrane Bound Receptors.md",
     "2023-09-27.md",
     "2023-09-30.md",
     "2023-09-28.md",
     "Assignments.md",
-    "AP Biology/Intracellular Receptors.md",
-    "AP Biology/glycoprotein.md",
-    "World History AB/3-Ancient Greece.md",
-    "AP Biology/phosphorylation.md",
-    "AP Biology/Mitochondria.md",
     "AP Biology.zip",
-    "AP Biology/enzyme.md",
     "Pasted image 20230929085233.png",
     "Coding",
     "World History AB",
