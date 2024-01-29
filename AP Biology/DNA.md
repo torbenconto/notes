@@ -42,7 +42,7 @@ forms 3 H-bonds, takes more energy to break,
 so areas of high CG base pairing require more energy to break during DNA replication
 
 ## Storage
-Prokaryotic DNA is "naked" and stored in the [[Cytoplasm]] as a single* free-floating "circular" chromosome.
+Prokaryotic DNA is "naked" and stored in the [[Cytoplasm]] as a single* free-floating "circular" [[chromosome]].
 
 Eukaryotic DNA is wound around histone proteins and stored in the nucleus.
 

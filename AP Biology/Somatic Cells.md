@@ -1,2 +1,2 @@
 #definition 
-Body Cells
+[[diploid]] Body Cells

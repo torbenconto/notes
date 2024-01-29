@@ -1,0 +1,1 @@
+A cell with a full set of chromosomes
