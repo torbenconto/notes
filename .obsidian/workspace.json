@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6-Gene Expression & Regulation.md",
+                "file": "AP Biology/6-Gene Expression & Regulation.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "transcription.md",
+                "file": "AP Biology/transcription.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "antico",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,8 +158,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -179,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6-Gene Expression & Regulation.md",
+                "file": "AP Biology/6-Gene Expression & Regulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6-Gene Expression & Regulation.md",
+                "file": "AP Biology/6-Gene Expression & Regulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6-Gene Expression & Regulation.md"
+                "file": "AP Biology/6-Gene Expression & Regulation.md"
               }
             }
           }
@@ -239,12 +238,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1765bf1283f09039",
+  "active": "ccbdf65f57702386",
   "lastOpenFiles": [
-    "translation.md",
+    "AP Biology/translation.md",
     "AP Biology/RNA.md",
-    "6-Gene Expression & Regulation.md",
-    "transcription.md",
+    "AP Biology/6-Gene Expression & Regulation.md",
+    "AP Biology/transcription.md",
     "AP Biology/5-Genetics.md",
     "AP Biology/chromosome.md",
     "AP Biology/3-Enzymes & Energy.md",

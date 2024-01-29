@@ -61,3 +61,49 @@ Mutations that effect big sections of [[chromosome]]s and effect many [[gene]].
 
 Occur during [[meiosis]].
 
+
+# Gene Regulation
+Process in which organisims control which genes are being expressed; allows for differential gene expression in eukaryotic and prokaryotic cells.
+
+Both prokaryotes and eukaryotes use regulatory sequences in their [[DNA]].
+
+
+## Eukaryotic
+Eukaryotic genes are frequently grouped together and activated by the same transcription factors.
+
+Allows for complementary genes involved in complex cell responses to be activated at the same time.
+
+## Prokaryotes
+Prokaryotes organize their [[gene]]s into transcriptional units called operons.
+
+Operons allow prokaryotes to quickly turn [[gene]]s on and off in 
+
+
+# Regulatory Sequences
+Stretches of [[DNA]] that interact with regulatory [[protein]]s to control [[transcription]].
+
+Regulatory sequences dont code for a protein.
+
+Regulatory sequences allow for positive or negative control of [[transcription]]
+
+Regulatory sequences do not need to be close to the [[gene]]
+
+## Positive Sequences
+Promotes sequences occur upstream (5') of the gene; [[transcription]] factor binds here, which help [[RNA]] polymerase enzymes to bind and initiate [[transcription]]
+
+Enhancer sequences can occur upstream (5') or downstream(3') of a [[gene]]; activator [[protein]]s bind to them and interact with [[transcription]] factors to promote [[RNA]] polymerase binding; sometimes increases amount of m[[RNA]] produced.
+
+## Negative Sequences
+Repressor [[protein]]s that bind to the promoter sequence prevent [[RNA]] polymerase from binding and initiating [[transcription]].
+
+Silencer sequences can occur upstream (5') or downstream(3') of a [[gene]]; repressor [[protein]]s bind to them, which stops [[transcription]] of [[gene]]s, usually by blocking [[RNA]] polymerase from binding or transcribing.
+
+# Importance of [[gene]] regulation
+Allows prokaryotic and eukaryotic cells to fine tune how much of a [[protein]] is being made at any given time in response to changes in the cell environment.
+Maintains homeostasis.
+
+Allows pluripotent stem cells to develop into the three germ layers present during vertebrate fetal development.
+
+Allows for differentiation of specialized cell types in multicellular organisms.
+ - All cells have identical [[DNA]]
+ - The cell phenotype changes due to which [[gene]]s are expressed and which aren't as well as by how much it is expressed.
