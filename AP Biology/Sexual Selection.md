@@ -1,0 +1,1 @@
+Selective change where an [[allele]] frequency shifts due to selection of mates based on physical characteristics. [[allele]] frequency shifts toward favorable traits.

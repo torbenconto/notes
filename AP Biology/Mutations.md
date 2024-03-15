@@ -1,0 +1,1 @@
+Random changes in [[allele]] frequency caused by changes in [[DNA]] sequence that result in pheotypic variation that can be acted upon by natural selection. 

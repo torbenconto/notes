@@ -1,0 +1,1 @@
+Word for a trait that develops as populations evolve and speciate. All organisms that evolve from a common ancestor that has a [[Synapomorphy]] will have the trait.

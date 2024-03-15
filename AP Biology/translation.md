@@ -8,7 +8,7 @@ The small ribosomal subunit binds to the m[[RNA]].
 Step 2: Elongation
 The [[Ribosome]] reads the m[[RNA]] in sequences of 3 nucleotides called codons.
 
-[[Ribosome]] translocates to codon. At each codon the matching t[[RNA]] is 
+[[Ribosome]] trans locates to codon. At each codon the matching t[[RNA]] is 
 
 Step 3: Termination
 [[Ribosome]] continues translating until it reaches the stop codon.

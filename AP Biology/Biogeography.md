@@ -1,0 +1,1 @@
+The study of where organisms live now and where their common ancestors lived in the past. Used for illustrating patterns of common evolution among ancestors and their descendant [[species]].

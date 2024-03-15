@@ -1,0 +1,1 @@
+Speciation that occurs when members of a population are geographically isolated and then become reproductively isolated.

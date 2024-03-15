@@ -67,16 +67,54 @@ Process in which organisims control which genes are being expressed; allows for 
 
 Both prokaryotes and eukaryotes use regulatory sequences in their [[DNA]].
 
+cells can control which genes are available for transcription by adding small histone [[protein]] tails with small chemical groups.
+
+- Addition of a methyl group permanently silences the expression of a gene.
+- Addition of an acetyl group turns expression on in that area.
+These histone modifications are heritable from parents to offspring.
+
+## RNA interference
+Small, non-coding sequences of [[RNA]] called microRNA are produced by the dicer protein. These sequences bind to complementary m[[RNA]] sequences.
+
+When mi[[RNA]] binds:
+- m[[RNA]] is degraded OR
+- [[transcription]] is blocked
+Either way, [[gene]] expression is silenced.
 
 ## Eukaryotic
 Eukaryotic genes are frequently grouped together and activated by the same transcription factors.
 
 Allows for complementary genes involved in complex cell responses to be activated at the same time.
 
+Eukaryotes can regulate gene expression at all levels of the [[gene]] expression pathway.
+- Epigenetics ([[DNA]] access control)
+	controls which genes are physically avalible
+- Pre-transcriptional control
+	Control production of [[transcription]] factors to prevent or activate [[transcription]] of target [[gene]]s
+- Post-transcriptional
+	// FILL IN
+- Pre-[[translation]]al control
+	m[[RNA]] destruction directed by non-coding micro[[RNA]] molecules
+- Post-[[translation]]al control
+	 // FILL IN
+
 ## Prokaryotes
 Prokaryotes organize their [[gene]]s into transcriptional units called operons.
 
-Operons allow prokaryotes to quickly turn [[gene]]s on and off in 
+Operons allow prokaryotes to quickly turn [[gene]]s on and off in // FILL IN
+
+Prokaryotes couple [[transcription]] and [[translation]], so their main [[gene]] regulation strategy is to control [[transcription]].
+They do this by grouping their genes in [[transcription]]al units called operons.
+The [[gene]]s in an operon are transcribed as a single m[[RNA]] sequence, but the presence of multiple stop and start codons allows for the production of several different [[protein]]s from one m[[RNA]]
+
+Operons have two types:
+- Inducible operons
+	sets of [[gene]]s that are normally repressed and need to be turned on in order for the bacteria to maintain homeostasis.
+- Repressible operons
+	sets of [[gene]]s that are normally expressed and need to be repressed in order for the bacteria to maintain homeostasis.
+
+LAC and TRP operons //FILL IN
+
 
 
 # Regulatory Sequences
@@ -107,3 +145,62 @@ Allows pluripotent stem cells to develop into the three germ layers present duri
 Allows for differentiation of specialized cell types in multicellular organisms.
  - All cells have identical [[DNA]]
  - The cell phenotype changes due to which [[gene]]s are expressed and which aren't as well as by how much it is expressed.
+
+
+# Biotechnology
+Manipulation of [[DNA]] sequences in an organism.
+Known as genetic engineering.
+Techniques used to engineer [[gene]]s are called recombinant [[DNA]] technology.
+
+[[PCR]]
+[[Gel Electrophoresis]]
+
+## Uses of [[DNA]] technology
+- [[gene]] therapy
+	Introduces a new gene to the genome
+- Medicine
+	Helps create new medicines
+- Forensics
+	Helps identify criminals
+- Environmental Cleanup
+	Used to break down plastics, heavy metals, oil spills, human waste, etc.
+- Foods
+	Modified foods to provide more nutritional value among other things.
+
+## Plasmids
+Small, circular [[DNA]] molecules.
+Often found in bacteria.
+Replicate independently of the [[chromosome]].
+Plasmids can serve as a vector.
+A vehicle for transferring recombinant [[gene]]s to a new host.
+Contain [[DNA]] replication initiation site.
+Contain a promoter sequence for initiating [[transcription]] of the inserted [[gene]].
+Contain antibiotic resistance [[gene]].
+// FILL IN
+
+## Cloning 
+Isolate 2 different [[DNA]] = bacterial plasmid that serves as vector, and human [[DNA]] of interest.
+
+Treat them both with the same restriction [[enzyme]] (cuts them the same).
+
+Sticky ends of the [[DNA]] joined by [[DNA]] ligase.
+
+Plasmid is inserted into bacterial cells through transformation.
+
+[[gene]] cloning, bacteria reproduces and mass produces the recombinant [[DNA]].
+
+### Applications
+Recombinant plasmids are extremely useful because it allows manufacturing mass quantity of biological molecules.
+- insulin
+- [[protein]] used to dissolve blood clats in heart attack therapy
+- Hepatitis B surface antigen used to vaccinate against the Hep B virus
+- [[gene]] for pest resistance
+- [[gene]] used to clean up waste
+
+## The human genome project
+The project mapped out the entire [[DNA]] genome sequence for all humans as a species.
+
+It found that we have around 40000 different genes in our genome.
+These make up only about 3% of the total genome.
+Alternative [[RNA]] splicing is the key to making the hundreds of thousands of different [[protein]]s and [[enzyme]]s our bodies need to use.
+A project is now being done for thousands of different species to compare their genomes to ours.

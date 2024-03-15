@@ -1,0 +1,1 @@
+Study of similarities in physical traits between different [[species]] of organisms. Organisms that share similar anatomical structures most likely shared a common ancestor with similar traits.

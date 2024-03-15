@@ -1,0 +1,1 @@
+When evolution doesn't occur for a long time then suddenly, and rapidly occurs.

@@ -1,0 +1,1 @@
+[[species]] that have similar [[DNA]] and amino acid sequences share a common ancestor that the sequence came from. This is the BEST evidence for evolution.

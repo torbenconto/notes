@@ -1,0 +1,1 @@
+[[species]] that is least related to the others on the [[cladogram]]. These will have the least characteristics in common with the other [[species]] represented.
